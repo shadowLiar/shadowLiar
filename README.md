@@ -6,8 +6,8 @@
 🤔🤔🤔🤔🤔🤔
 
 <p align = "rignt">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shadowLiar&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shadowLiar&theme=tokyonight">
 </p>
 
 😄 😄 😄 😄 😄 
